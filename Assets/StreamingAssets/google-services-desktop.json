@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "742117947556",
+    "firebase_url": "https://histolearn-unesco.firebaseio.com",
+    "project_id": "histolearn-unesco",
+    "storage_bucket": "histolearn-unesco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742117947556:android:f59cab64369c65c4",
+        "android_client_info": {
+          "package_name": "com.histolearnunesco.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742117947556-pqovoc7ih1tnmrai7h07gfenio8plm7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.histolearnunesco.firebase",
+            "certificate_hash": "66145369deb444140e352985194f1b1f4d74b1a6"
+          }
+        },
+        {
+          "client_id": "742117947556-mf5vvvdofssvnhkq125ualeuhg7t5p5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_xOddEECOYPDNwJkH6Y7kSkBzctHVSmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742117947556-mf5vvvdofssvnhkq125ualeuhg7t5p5d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "742117947556-6vadsamaviolj9mjfmgcc7oonmgovf0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.modnoidev.histolearn"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
